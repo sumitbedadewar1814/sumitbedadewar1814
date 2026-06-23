@@ -1,18 +1,64 @@
-# 📑About Me:
-Data Analyst 📊 | Python 🚀| SQL | Power BI | Tableau | Excel 🔍 | Data Visualization | Actionable Business Insights | Prompt Engineering | Web Developer
 
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Hi+th
+  ere+%F0%9F%91%8B%2C+I'm+Sumit+Bedadewar;Data+Analyst+%7C+GenAI+Builder;I+turn+data+and+LLMs+into+products+people+actually+use" alt="Typing SVG" />
+  </p>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sumiitt.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitbedadewar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitbedadewar463@gmail.com) 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sumitbedadewar"><img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/sumitbedadewar1814"><img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sumitbedadewar1814&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sumitbedadewar1814&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitbedadewar1814&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ## 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  - 🎓 **B.Tech, Computer Science Engineering (2023–2027)** — DBATU University
+  - 💼 **Data Analyst Intern** @ [Zappkode Solutions](https://www.zappkode.com), Nagpur *(Mar 2026 – Present)*
+  - 🤖 Building **AI Tutor** — a RAG-based chatbot for CBSE students (Classes 8–10) using LLM fine-tuning
+  - 🌾 Built **KisanAI** — a data dashboard helping farmers make crop and price decisions
+  - 📍 Open to **Remote / Hybrid / On-site** roles across India
+
+  ## 🛠️ Tech I Work With
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,html,css,git,github,vscode,jupyter" />
+  </p>
+
+  **Data & Visualization:** Power BI · Tableau · Excel (Pivot, Power Query, VBA) · Pandas · NumPy · Matplotlib · Seaborn
+  **AI / GenAI:** RAG Pipelines · LLM Fine-Tuning · Prompt Engineering · LangChain · Hugging Face · OpenAI API
+  **Other:** Streamlit · Flask · REST APIs
+
+  ## 🚀 Featured Projects
+
+  | Project | What it does | Stack |
+  |---|---|---|
+  | 🤖 [**AI Tutor**](https://github.com/sumitbedadewar1814/AI-Tutor) | RAG chatbot answering CBSE textbook queries for Class 8–10 | Python · LangChain ·
+  LLM · Vector DB |
+  | 🌾 [**ApnaKisanAI**](https://github.com/sumitbedadewar1814/apna-kisan-ai) | Analytics dashboard for farmers — crop, price & weather insights | Python · Power BI ·
+  SQL |
+  | 🌐 [**Personal Portfolio**](https://github.com/sumitbedadewar1814/portfolio) | Responsive portfolio site | HTML · CSS · JS |
+
+  ## 📊 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sumitbedadewar1814&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitbedadewar1814&theme=tokyonight&hide_border=true" height="160"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbedadewar1814&layout=compact&theme=tokyonight&hide_border=true"/>
+  </p>
+
+  ## 🏆 Certifications
+  - 📊 **Data Analyst** — Zappkode Academy
+  - 🌐 **Web Development** — Acmegrade, IIT Bombay
+
+  ## 📫 Let's Connect
+  - 💼 [LinkedIn](https://www.linkedin.com/in/sumitbedadewar)
+  - 📧 Email: your-email@example.com
+  - 🧑‍💻 Open to: **Junior Data Analyst** & **Junior GenAI / LLM Engineer** roles
+
+  <p align="center"><i>“Data tells you what happened. LLMs help you talk to it.”</i></p>
